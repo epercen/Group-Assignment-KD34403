@@ -36,6 +36,7 @@ git clone https://github.com/epercen/Group-Assignment-KD34403.git
 cd Group-Assignment-KD34403
 
 Then Download the model file here = https://drive.google.com/file/d/11OpQKbNkJ_Ncny2Q7n7vHuK7Y8_E5XjJ/view?usp=sharing
+Place it into the Flask Deployed App folder
 
 ````
 
