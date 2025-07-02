@@ -10,7 +10,7 @@ Video Showcase : https://youtu.be/8OS1OxrShww
 
 ## 📁 Project Structure
 
-```
+```'
 
 ├── app.py                        # Flask backend script
 ├── CNN.py                        # CNN model definition
