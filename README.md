@@ -1,4 +1,4 @@
-HOW TO ODNWLOAD
+HOW TO DOWNLOAD
 Create a Python Virtual Environment & Activate Virtual Environment Link
 Install all the dependencies using below command pip install -r requirements.txt
 Go to the Flask Deployed App folder.
