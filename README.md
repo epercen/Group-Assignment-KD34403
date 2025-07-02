@@ -32,8 +32,8 @@ Follow the steps below to set up and run the application on your machine:
 ### 1. 🔄 Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Plant-Disease-Detection.git
-cd Plant-Disease-Detection
+git clone https://github.com/epercen/Group-Assignment-KD34403.git
+cd Group-Assignment-KD34403
 
 Then Download the model file here = https://drive.google.com/file/d/11OpQKbNkJ_Ncny2Q7n7vHuK7Y8_E5XjJ/view?usp=sharing
 
