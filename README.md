@@ -1,4 +1,3 @@
-Sure! Here's the full **README.md** content in one block for easy copy-pasting:
 
 ```markdown
 # 🌱 Plant Disease Detection Using Deep Learning
