@@ -4,6 +4,8 @@
 
 This is a Flask-based web application that allows users to detect plant diseases by uploading an image of a leaf. It uses a Convolutional Neural Network (CNN) model to predict the disease and provides useful prevention steps and supplement suggestions.
 
+Video Showcase : https://youtu.be/8OS1OxrShww
+
 ---
 
 ## 📁 Project Structure
