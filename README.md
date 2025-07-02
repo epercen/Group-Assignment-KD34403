@@ -36,6 +36,7 @@ git clone https://github.com/your-username/Plant-Disease-Detection.git
 cd Plant-Disease-Detection
 
 Then Download the model file here = https://drive.google.com/file/d/11OpQKbNkJ_Ncny2Q7n7vHuK7Y8_E5XjJ/view?usp=sharing
+
 ````
 
 ### 2. 🐍 Create and Activate a Virtual Environment
